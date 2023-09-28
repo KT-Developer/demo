@@ -1,4 +1,4 @@
 # demo
 MY first repository
 <br>
-AUTHOR-KUNSH TANEJA
+AUTHOR-KUNSH TANEJA(STUDENT)
